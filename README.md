@@ -1,9 +1,9 @@
 ## Hi, I'am Daniel 
 
-Electrical Engineer of National University of Colombia
-Co-founder UNLab 4.0
-Making video about electronics, programing, arduino, 3D print and tech in el "El Taller Crillo"
+Electrical Engineer of National University of Colombia  <br/>
 
+Co-founder UNLab 4.0 <br/>
+Making video about electronics, programing, arduino, 3D print and tech in el "El Taller Crillo" <br/>
 <!--
 **Calsiferian/Calsiferian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
